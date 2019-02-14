@@ -10,4 +10,4 @@
 　→【PDF】[データ使用解説資料](https://drive.google.com/open?id=1xjMd9xBkrwaPiJ8jGp5lykmbevHzAk11)  
 
 ### 3. 福野先生ハンズオンスライド  
-・【PDF】[SPARQLでG空間アプリ 世界一やさしいハンズオン](https://drive.google.com/open?id=1WoCffTvsVhi3PE8a19k3eFCR_IsAXQIu){:target="_blank"}
+・【PDF】[SPARQLでG空間アプリ 世界一やさしいハンズオン](https://drive.google.com/open?id=1WoCffTvsVhi3PE8a19k3eFCR_IsAXQIu)
