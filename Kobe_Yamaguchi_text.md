@@ -7,7 +7,7 @@
 ### 2. オープンデータの紹介  
 ・【動画】[G空間利活用方法（地下街・路線バス編）](https://www.youtube.com/watch?v=buZe7YAlblc&feature=youtu.be)  
 　→【PDF】[動画素材スライド](https://drive.google.com/open?id=1iiIkeRVDLKG0-WoQLeP3jMgo7MXdZM7i)  
-　→【PDF】[データ使用解説資料](https://drive.google.com/open?id=1htKi4Df2jOqkHo9y1FpzaqVg29V1Rx2f)  
+　→【PDF】[データ使用解説資料](https://drive.google.com/open?id=1TJ2kD7tAmZQoGasCL-qLO35JDszYP_xf)  
 ・【動画】[衛星リモートセンシングの利活用](https://www.youtube.com/watch?v=vGymMo3Eu6c&feature=youtu.be)  
 　→【PDF】[動画素材スライド](https://drive.google.com/open?id=18NDaayeASYurncHPkclKK44o9zQqj4O0)
 
