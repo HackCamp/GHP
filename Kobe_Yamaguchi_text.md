@@ -12,4 +12,5 @@
 　→【PDF】[動画素材スライド](https://drive.google.com/open?id=18NDaayeASYurncHPkclKK44o9zQqj4O0)
 
 ### 3. ハンズオンスライド  
+・[環境構築資料](https://gist.github.com/Yoosuke/65873bff61ae66bd4ad1d23180a927f3)
 ・[オープンデータを利用して地図アプリを作ろう](https://gitpitch.com/TheWaggle/GeoHack-HndsOn)
